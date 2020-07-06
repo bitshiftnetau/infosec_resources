@@ -22,18 +22,30 @@ START HERE:
 - TryHackMe: https://tryhackme.com/
 
 # Courses:
-- Udemy:
-Learn Ethical hacking from scratch: https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
-Pen-testing: https://www.udemy.com/course/penetration-testing/
-Website pen-testing: https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch/
+
+University (single unit):
+- Open University: 
+Introduction to Cyber Security: https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview
+
+
+Industry certifications:
+- Cisco (CCNA and others): https://www.cisco.com/c/en/us/training-events/training-certifications/training-catalog/course-selector.html
 
 - Coursera (IBM Certification):
 Light: https://www.coursera.org/specializations/security-analyst-fundamentals#courses
 Full: https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst#courses
 
-- Cisco: https://www.cisco.com/c/en/us/training-events/training-certifications/training-catalog/course-selector.html
+Non-certified:
+- Udemy:
+Learn Ethical hacking from scratch: https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
+Pen-testing: https://www.udemy.com/course/penetration-testing/
+Website pen-testing: https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch/
 - Ethical Hackers Academy: https://ethicalhackersacademy.com/
 - HackerOne: https://www.hackerone.com/
+- MIT OpenCourseWare: 
+Comp SysSec: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/
+Network and CompSec: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/
+
 
 # Operating Systems:
 
@@ -58,12 +70,14 @@ Some of these tools are installed as part of Kali Linux:
 # Commercial products:
 - DarkTrace: https://www.darktrace.com/en/
 
-# Practices
+# Best practices cheatsheet
 - UserAuth: 2FA, 16+ bit passwords 
 - Principle of least priviledge
 
 
-
-
+# Vulns:
+- WannaCry:
+- CallStranger:
+- 
 
  
