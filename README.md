@@ -66,18 +66,26 @@ Some of these tools are installed as part of Kali Linux:
 - Port-knockers: https://github.com/robertdavidgraham/masscan
 - MetaSploit: https://www.metasploit.com/
 - nmap: https://nmap.org/
+- burp proxy: 
+- bloodhound/powerview: 
+- scanT3R: https://github.com/knassar702/scant3r
+- MISP: https://www.misp-project.org/
 
 # Commercial products:
 - DarkTrace: https://www.darktrace.com/en/
 
+# Media, podcasts and news
+- Getting into InfoSec: https://gettingintoinfosec.com/
+- r/netsec
+- r/ReverseEngineering
+
+
 # Best practices cheatsheet
-- UserAuth: 2FA, 16+ bit passwords 
 - Principle of least priviledge
+- Disk and partition isolated encryption
+- 
 
-
-# Vulns:
-- WannaCry:
-- CallStranger:
+# Vulnssts:
 - 
 
  
